@@ -6,7 +6,7 @@ import naturesimulator.Action;
 import naturesimulator.LocalInformation;
 import ui.GridPanel;
 
-/** @author Umut Kocasarý
+/** @author Umut KocasarÃ½
  * 
  *  Includes common behaviors and fields of Creatures.
  *  Can not create an object of this class.This is
